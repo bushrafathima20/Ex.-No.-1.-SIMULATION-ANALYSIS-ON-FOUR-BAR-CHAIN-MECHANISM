@@ -53,13 +53,23 @@
 
 ## Input:
 
+
+
 <img width="988" height="507" alt="Screenshot 2026-03-12 101756" src="https://github.com/user-attachments/assets/3d82b39c-c0f5-4546-8509-1c24c5102db8" />
 
 ## Output:
 
+
+
+
 <img width="1148" height="847" alt="Screenshot 2026-03-12 101914" src="https://github.com/user-attachments/assets/50ececab-ea69-42a9-98b1-00ae16002d7e" />
 
+
+
+
 <img width="958" height="200" alt="Screenshot 2026-03-12 101924" src="https://github.com/user-attachments/assets/0dec726c-4f2d-4fd0-bab0-da8188315de5" />
+
+
 
 
 ### Name: BUSHRA FATHIMA I
